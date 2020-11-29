@@ -7,6 +7,7 @@ Python Data Science Project, Titanic Survival Prediction using:
 - Random Forest (89.26 % Accuracy)
 - AdaBoostClassifier (88.13 % Accuracy)
 - GradientBoostingClassifier (89.26 % Accuracy)
+
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
 # Problem Statement
