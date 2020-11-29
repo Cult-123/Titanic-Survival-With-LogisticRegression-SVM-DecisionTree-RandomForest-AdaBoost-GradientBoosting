@@ -63,4 +63,3 @@ In this Project I have unleashed the useful Data Science insights using this Tit
 42. [GradientBoostingClassifier](#Gradient-Boosting)
 43. [Random Forest](#Random-Forest)
 44. [GradientBoostingClassifier Hyperparameter Tuning](#Gradient-Tune)
-45. 
