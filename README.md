@@ -63,3 +63,20 @@ In this Project I have unleashed the useful Data Science insights using this Tit
 42. [GradientBoostingClassifier](#Gradient-Boosting)
 43. [Random Forest](#Random-Forest)
 44. [GradientBoostingClassifier Hyperparameter Tuning](#Gradient-Tune)
+
+## Selected Features
+From the Titanic DataSet, Statistically Significant Selected Features are as follows:
+
+- 'Pclass_3' - A Category of a Passenger Class Feature
+
+## Generated Features
+
+- 'Family_Group_loner' - A Category of a Family_Group Generated Feature
+
+- 'Family_Group_small' - A Category of a Family_Group Generated Feature
+
+- 'Fare_Group_high' - A Category of a Fare_Group Generated Feature
+
+- 'Fare_Group_very_high' - A Category of a Fare_Group Generated Feature
+
+- 'title_Mr' - A Category of a title Generated Feature
