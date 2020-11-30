@@ -65,6 +65,7 @@ In this Project I have unleashed the useful Data Science insights using this Tit
 44. [GradientBoostingClassifier Hyperparameter Tuning](#Gradient-Tune)
 
 ## Selected Features
+
 From the Titanic DataSet, Statistically Significant Selected Features are as follows:
 
 - 'Pclass_3' - A Category of a Passenger Class Feature
