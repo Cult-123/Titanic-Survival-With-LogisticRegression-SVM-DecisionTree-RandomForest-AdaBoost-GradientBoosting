@@ -70,7 +70,6 @@ From the Titanic DataSet, Statistically Significant Selected Features are as fol
 - 'Pclass_3' - A Category of a Passenger Class Feature
 
 ## Generated Features
-
 - 'Family_Group_loner' - A Category of a Family_Group Generated Feature
 
 - 'Family_Group_small' - A Category of a Family_Group Generated Feature
