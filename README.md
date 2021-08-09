@@ -1,12 +1,12 @@
 # Titanic-Survival-With-LogisticRegression-SVM-DecisionTree-RandomForest-AdaBoost-GradientBoosting
 Python Data Science Project, Titanic Survival Prediction using:
 
-- LogisticRegression (89.83 % Accuracy)
-- Support Vector Machine (89.26 % Accuracy)
-- Decision Tree (89.26 % Accuracy)
-- Random Forest (89.26 % Accuracy)
-- AdaBoostClassifier (88.13 % Accuracy)
-- GradientBoostingClassifier (89.26 % Accuracy)
+- LogisticRegression (91.52 % Accuracy)
+- Support Vector Machine (92.65 % Accuracy)
+- Decision Tree (92.09 % Accuracy)
+- Random Forest (90.96 % Accuracy)
+- AdaBoostClassifier (89.83 % Accuracy)
+- GradientBoostingClassifier (92.65 % Accuracy)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
