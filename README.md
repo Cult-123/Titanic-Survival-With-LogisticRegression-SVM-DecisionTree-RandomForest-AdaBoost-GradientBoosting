@@ -1,6 +1,8 @@
 # Titanic-Survival-With-LogisticRegression-SVM-DecisionTree-RandomForest-AdaBoost-GradientBoosting
 Python Data Science Project, Titanic Survival Prediction using:
 
+![](Images/T6.JPG)
+![](Images/T7.JPG)
 ![](Images/T1.JPG)
 ![](Images/T2.JPG)
 ![](Images/T3.JPG)
